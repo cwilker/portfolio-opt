@@ -3,7 +3,7 @@
 
 #Run all libraries and functions. Then run the functions starting on line 230. 
 
-library(tseries)
+library(tseries)#cool
 library(zoo)
 
 
